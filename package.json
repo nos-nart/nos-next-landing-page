@@ -22,7 +22,7 @@
     "slick-carousel": "^1.8.1",
     "tailwind": "2.4.1",
     "tailwindcss": "^2.0.3",
-    "snyk": "^1.438.0"
+    "snyk": "^1.465.0"
   },
   "snyk": true
 }
