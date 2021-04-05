@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
-    "postcss": "8.2.6",
+    "postcss": "8.2.7",
     "framer-motion": "^3.3.0",
     "next": "10.0.8",
     "postcss-import": "^14.0.0",
